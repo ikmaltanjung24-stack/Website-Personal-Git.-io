@@ -20,3 +20,5 @@
 <img width="1917" height="1015" alt="BCR" src="https://github.com/user-attachments/assets/b87b9c42-510a-4c24-8974-29986a17e7cf" />
 <img width="3840" height="1203" alt="Autocad" src="https://github.com/user-attachments/assets/b16a5a0c-9c74-4589-8a75-b0e186305376" />
 <img width="225" height="225" alt="arcgis" src="https://github.com/user-attachments/assets/cf8534a4-739c-499c-acca-31853183af84" />
+[style.css](https://github.com/user-attachments/files/33707572/style.css)
+[index2.html](https://github.com/user-attachments/files/33707571/index2.html)
